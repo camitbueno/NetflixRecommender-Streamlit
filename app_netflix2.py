@@ -65,7 +65,7 @@ if menu == "ℹ️ Sobre":
     st.subheader("Bem-vindo ao sistema de recomendação de filmes e séries do catálogo da Netflix! 🎬✨")
     st.write("Este projeto foi desenvolvido para ajudar você a encontrar filmes e séries que combinam com seu gosto pessoal, utilizando dados reais da Netflix. Através de algoritmos inteligentes de recomendação, analisamos suas preferências para sugerir títulos que você provavelmente vai adorar.")
     st.write("Este sistema é resultado de uma combinação de ciência de dados, aprendizado de máquina e paixão por entretenimento.")
-    st.write("Para mais detalhes sobre o projeto, acesse o [repositório no GitHub](https://github.com/camitbueno/Forecast-Streamlit/tree/main).")
+    st.write("Para mais detalhes sobre o projeto, acesse o [repositório no GitHub](https://github.com/camitbueno/NetflixRecommender-Streamlit).")
 
 # ------------------ ANÁLISES ------------------
 if menu == "📊 Análises":
