@@ -72,6 +72,7 @@ if menu == "📊 Análises":
     st.title("📊 Análises Visuais com Plotly")
 
     # Tipos de Conteúdo
+    st.subheader("📺 Tipos de Conteúdo")
     type_freq = df['type'].value_counts().to_frame()
     type_freq.columns = ['count']
     type_freq = type_freq.reset_index()
